@@ -38,12 +38,12 @@ Moreover, along with above description, a basic Protected/Public route mechanism
 
 ## Cheat Sheet
 
-To start development server : `npm run server`
-To start storybook server : `npm run storybook`
-To make a distribution build : `npm run build`
-To run prettier manually : `npm run pretty`
-To run eslint manually, followed be prettier : `npm run fix`
-To run Jest tests manually : `npm run test`
+-   To start development server : `npm run server`
+-   To start storybook server : `npm run storybook`
+-   To make a distribution build : `npm run build`
+-   To run prettier manually : `npm run pretty`
+-   To run eslint manually, followed be prettier : `npm run fix`
+-   To run Jest tests manually : `npm run test`
 
 ## Libraries References:
 
